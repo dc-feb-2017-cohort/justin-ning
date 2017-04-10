@@ -6,4 +6,5 @@ goodbye
 Here are some more changes
 more changes
 How are you doing today, Ning? :)
-Hey Justin! good, how about you? 
+Hey Justin! good, how about you?
+I am doing good, this is fun! 
